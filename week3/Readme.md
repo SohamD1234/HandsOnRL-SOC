@@ -3,7 +3,7 @@ For Week 3, we will be looking at two classes of algorithms to deal with predict
 2: Temporal Difference Learning
 The primary reading material for this week will be Chapters 5 and 6 of Grokking DRL. Also, if you are interested in a more theoretical approach, you may also refer to chapters 5 and 6 from Sutton and Barto and additionally chapter 7 for Eligibility Traces, which acts as a bridge between these two classes of algorithms.
 
-# Week 2
+# Week 3
 
 In this week and the next, we shall properly learn about Multiarmed Bandits and Finite Markov Decision Processes.
 
