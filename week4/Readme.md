@@ -1,4 +1,4 @@
-Welcome to Week 3. This week, we will be starting with a simple game and use Q-learning to "solve" the environment.
+Welcome to Week 4. This week, we will be starting with a simple game and use Q-learning to "solve" the environment.
 
 ## Gymnasium
 
